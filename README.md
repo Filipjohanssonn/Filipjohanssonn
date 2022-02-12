@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Filipjohanssonn
+- 👀 I’m interested in Cyber Security, Game and app development.
+- 🌱 I’m currently learning about Data communication and Statistical mathematics at Karlstad University
+- 📫 How to reach me: filipjohanssonswe@gmail.com
